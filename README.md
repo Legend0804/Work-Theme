@@ -3,6 +3,7 @@
 - Widgets using [Rainmeter](https://www.rainmeter.net/)
   Widget is [Niken by ApexXx-Sensei](https://www.deviantart.com/apexxx-sensei/art/Niken-768616678)
 - Taskbar configured using [Windhawk](https://windhawk.net/)
+  Original Mods are by Niivu. I tweaked them to my preferance
 - Explorer tweaked using [StartAllBack](https://www.startallback.com/)
 - Spotify themed using [Spicetify](https://spicetify.app/docs/advanced-usage/installation/)
   Spicetify theme is named **Matte** and color scheme is **Dark-grey1**. It is one of original themes
