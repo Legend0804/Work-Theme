@@ -1,0 +1,4 @@
+1. Install python from official site
+2. Run "pip install requests" and "pip install flask" in powershell
+3. Go to Openweather website and create your own api
+4. 
