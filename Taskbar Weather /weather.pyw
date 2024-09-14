@@ -21,8 +21,8 @@ weather_icons = {
 
 @app.route('/weather')
 def get_weather():
-    api_key = "5e9b7582c77c6d73d1cbd353606dd94b"
-    city = "Morshi" 
+    api_key = "YOUR API KEY"
+    city = "YOUR CITY NAME" 
     url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric"
 
     response = requests.get(url)
