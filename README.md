@@ -12,8 +12,8 @@
 - Font used is DaddyTimeMono Nerd Font (it is essesntial to iinstall this font on system)
 - Finally theme, Iconpack and start menu mod is [Work by Niivu](https://www.deviantart.com/niivu/art/Work-for-Windows-11-1098176768)
 
-![Screenshot 2024-09-14 075428](https://github.com/user-attachments/assets/fa81cc3b-50a6-404f-9d19-f0b66ba90faa)
-![Screenshot 2024-09-13 204326](https://github.com/user-attachments/assets/f4fd7ef5-62c0-4c16-96c9-31fef90f0b35)
-![Screenshot 2024-09-13 204041](https://github.com/user-attachments/assets/4eed30ab-d9ca-46b3-a105-5bd422338543)
-![Screenshot 2024-09-13 203542](https://github.com/user-attachments/assets/b8117ac4-506c-45f0-b951-728e1b638451)
-![Screenshot 2024-09-13 202957](https://github.com/user-attachments/assets/b8c3da57-fa8f-422b-8652-82c95681f1bf)
+![Screenshot 2024-09-13 202957](https://github.com/user-attachments/assets/d5403b8a-2e72-470d-bb09-4e7ddad879c7)
+![Screenshot 2024-09-13 203542](https://github.com/user-attachments/assets/31b84f12-ad6e-41d6-bee3-05ee5082ec6f)
+![Screenshot 2024-09-13 204041](https://github.com/user-attachments/assets/1266eb6c-74c9-4739-96d5-077372bca29a)
+![Screenshot 2024-09-13 204326](https://github.com/user-attachments/assets/c249c696-4f53-4142-bf61-5da2759cb337)
+![Screenshot 2024-09-14 075428](https://github.com/user-attachments/assets/d20ef4e3-7056-474e-8f9b-76ee8d207744)
